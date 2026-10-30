@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Feyisayo Morenikeji Jatto 👋
 
-<!--
-**moreniseyi-lab/moreniseyi-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Student @ LeadHer Foundation | Aspiring Data Analyst | Abuja, NG
 
-Here are some ideas to get you started:
+- 📊 I build Power BI dashboards & turn data into business insights
+- 🌱 Learning: Advanced DAX, SQL & Python
+- 🔭 Featured Project: [Global Superstore Dashboard](https://github.com/moreniseyi-lab/Global-Superstore-PowerBI-dashboard)
+- 📫 Reach me: moreniseyi@gmail.com
+- 🎯 Open to: Data Analyst Internships & Entry-level roles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Skills
+Power BI | Excel | SQL | DAX | Data Visualization | Business Intelligence
+
+#### 📈 GitHub Stats
+![Feyisayo's Stats](https://github-readme-stats.vercel.app/api?username=moreniseyi-lab&show_icons=true&theme=tokyonight)
