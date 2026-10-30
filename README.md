@@ -11,5 +11,4 @@ Student @ LeadHer Foundation | Aspiring Data Analyst | Abuja, NG
 #### 🛠️ Skills
 Power BI | Excel | SQL | DAX | Data Visualization | Business Intelligence
 
-#### 📈 GitHub Stats
-![Feyisayo's Stats](https://github-readme-stats.vercel.app/api?username=moreniseyi-lab&show_icons=true&theme=tokyonight)
+   ![Feyisayo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=moreniseyi-lab&show_icons=true&theme=tokyonight)
